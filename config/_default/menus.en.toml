@@ -1,0 +1,65 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Home"
+  pageRef = "home"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 15
+
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 20
+
+[[main]]
+  name = "About"
+  weight = 30
+
+[[main]]
+  name = "Myself"
+  parent = "About"
+  pageRef = "about/myself"
+  weight = 37
+
+[[main]]
+  name = "Resume"
+  parent = "About"
+  pageRef = "about/resume"
+  weight = 38
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/itsshunya"
+  weight = 400
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://linkedin.com/victorluquemartinez"
+  weight = 400
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
