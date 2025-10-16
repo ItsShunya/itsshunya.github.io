@@ -1,23 +1,27 @@
 languageCode = "esp"
 languageName = "Español"
 weight = 1
-title = "void::NULL()"
+title = "NULL"
 
 [params]
   displayName = "Español"
   isoCode = "es-ES"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/logo.webp"
   description = "NULL :: Shunya's blog"
 
 [params.author]
-  name = "Shunya"
+  name = "NULL: El blog de Shunya"
   email = "luque.viictor@gmail.com"
-  image = "img/blowfish_logo.png"
-  headline = "Bienvenido a void::null(), aquí podrás entender todo lo que pasa por mi cabeza!"
-  bio = "void::NULL() blog"
+  image = "img/myself.jpg"
+  headline = "Aquí encontrarás mis ideas, aprendizajes y críticas!"
+  bio = "NULL blog"
   links = [
-    { x-twitter = "https://twitter.com/itsshunya" },
+    { x-twitter = "https://x.com/itsshunya" },
     { github = "https://github.com/itsshunya" },
+    { linkedin = "https://linkedin.com/in/victorluquemartinez" },
+    { email = "mailto:luque.viictor@gmail.com" },
+    { instagram = "https://instagram.com/shunyavic" },
+    { dev = "https://dev.to/itsshunya" },
   ]

@@ -41,17 +41,17 @@
   pageRef = "about/resume"
   weight = 38
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/itsshunya"
-  weight = 400
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/itsshunya"
+#  weight = 400
 
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "https://linkedin.com/victorluquemartinez"
-  weight = 400
+#[[main]]
+#  identifier = "linkedin"
+#  pre = "linkedin"
+#  url = "https://linkedin.com/victorluquemartinez"
+#  weight = 400
 
 
 # -- Footer Menu --
