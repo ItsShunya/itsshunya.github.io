@@ -21,8 +21,11 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 
-
 ---
+
+{{< lead >}}
+<<If you can't explain it simply, you don't understand it well enough.>> - Albert Einstein
+{{< /lead >}}
 
 With a strong foundation in **embedded systems**, neuroscience technologies, and **regulated medical software**, I design and build reliable, high-performance solutions that operate where precision and safety matter most. Over the past several years, I’ve contributed to the development of medical devices ranging from non-invasive neurostimulators and EEG diagnostics systems to next-generation neural implants for Parkinson’s disease, working across firmware, desktop apps, and cloud-backed tools used in clinical and research environments.
 

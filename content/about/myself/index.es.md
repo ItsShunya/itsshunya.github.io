@@ -21,8 +21,11 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 
-
 ---
+
+{{< lead >}}
+<<Si no puedes explicarlo de forma sencilla, es que no lo has entendido bien>> - Albert Einstein
+{{< /lead >}}
 
 Con una sólida base en sistemas embebidos, tecnologías de neurociencia y software médico regulado, diseño y construyo soluciones fiables y de alto rendimiento que operan en entornos donde la precisión y la seguridad son fundamentales. A lo largo de los últimos años he contribuido al desarrollo de dispositivos médicos que van desde neuroestimuladores no invasivos y sistemas de diagnóstico EEG hasta implantes neuronales de última generación para la enfermedad de Parkinson, trabajando en firmware, aplicaciones de escritorio y herramientas conectadas a la nube utilizadas en entornos clínicos y de investigación.
 
