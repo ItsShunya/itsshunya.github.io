@@ -12,11 +12,11 @@ title = "NULL"
   description = "NULL :: Shunya's blog"
 
 [params.author]
-  name = "Shunya's blog: NULL"
+  name = "Victor Luque"
   email = "luque.viictor@gmail.com"
   image = "img/myself.jpg"
   headline = "Embedded Software Engineer @ INBRAIN"
-  bio = "AAA"
+  bio = "Embedded Software Engineer @ INBRAIN"
   links = [
     { x-twitter = "https://x.com/itsshunya" },
     { github = "https://github.com/itsshunya" },
