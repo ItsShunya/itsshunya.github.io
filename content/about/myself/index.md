@@ -33,3 +33,5 @@ Beyond engineering, I regularly act as a bridge between teams — serving as **S
 I hold an **MS in Artificial Intelligence** (Distinction) from the **University of London**, where I specialized in data science and deep learning applied to archaeology. My career is driven by a simple through-line: building systems that combine rigor, clarity, and long-term reliability, whether in embedded medical devices, desktop software, or multidisciplinary research collaborations.
 
 This blog is where I write about embedded engineering, medical device development, applied AI, system architecture, tools, and the hard-earned lessons from shipping software in regulated, safety-critical domains.
+
+{{< carousel images="{img/alexandria.jpg,img/enobio.jpg,img/qaire.jpg,img/nic2.png,img/qairedata.png,img/starstim_nic.jpg" >}}
