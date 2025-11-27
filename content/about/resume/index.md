@@ -35,14 +35,14 @@ layoutBackgroundHeaderSpace: false
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityLogo" src="inbrain.png"/></td>
-            <td><a href="https://www.inbrainneuroelectronics.com/" target="_blank">INBRAIN Neuroelectronics</a></td>
+            <td><img class="customEntitityLogo" src="img/logo_inbrain.png"/></td>
+            <td><a href="https://inbrain-neuroelectronics.com/" target="_blank">INBRAIN Neuroelectronics</a></td>
             <td>Embedded Software Engineer & Scrum Master</td>
             <td>2025 – Present</td>
             <td>Barcelona, ES</td>
         </tr>
         <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="neuroelectrics.png"/></td>
+            <td rowspan=4><img class="customEntitityLogo" src="img/logo_neuroelectrics.jpg"/></td>
             <td rowspan=4><a href="https://www.neuroelectrics.com/" target="_blank">Neuroelectrics</a></td>
         </tr>
         <tr>
@@ -61,15 +61,15 @@ layoutBackgroundHeaderSpace: false
             <td>Barcelona, ES</td>
         </tr>
         <tr>
-            <td><img class="customEntitityLogo" src="upc.png"/></td>
-            <td><a href="https://www.upc.edu/" target="_blank">UPC — EEL EETSETB</a></td>
+            <td><img class="customEntitityLogo" src="img/logo_ESTETB.png"/></td>
+            <td><a href="https://eel.upc.edu/es" target="_blank">UPC — EEL EETSETB</a></td>
             <td>Research Intern in Electronics Engineering</td>
             <td>Mar 2020 – Jun 2020</td>
             <td>Barcelona, ES</td>
         </tr>
         <tr>
-            <td><img class="customEntitityLogo" src="sptbcn.png"/></td>
-            <td><a href="https://www.sptbcn.com/" target="_blank">SPTBCN — Sensorial Processing Technologies</a></td>
+            <td><img class="customEntitityLogo" src="img/logo_spt.jpg"/></td>
+            <td><a href="https://www.linkedin.com/company/sptbcn/" target="_blank">SPTBCN</a></td>
             <td>Electronics Engineer & Project Manager Trainee</td>
             <td>2019 – 2020</td>
             <td>Barcelona, ES</td>
@@ -92,14 +92,14 @@ layoutBackgroundHeaderSpace: false
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityLogo" src="uol.png"/></td>
+            <td><img class="customEntitityLogo" src="img/logo_uol.jpg"/></td>
             <td><a href="https://london.ac.uk/" target="_blank">University of London</a></td>
-            <td>MSc in Artificial Intelligence (Distinction)</td>
+            <td>MSc in Artificial Intelligence</td>
             <td>2022 – 2024</td>
         </tr>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="upc.png"/></td>
-            <td rowspan=2><a href="https://www.upc.edu/" target="_blank">Polytechnic University of Catalonia (UPC)</a></td>
+            <td rowspan=2><img class="customEntitityLogo" src="img/logo_upc.png"/></td>
+            <td rowspan=2><a href="https://www.upc.edu/" target="_blank">Polytechnic University of Catalonia</a></td>
         </tr>
         <tr>
             <td>BEng in Telecommunication Technologies & Services Engineering</td>
@@ -122,16 +122,16 @@ layoutBackgroundHeaderSpace: false
   </thead>
   <tbody>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Apache myNewt nimBLE</a></td>
+      <td><img class="customEntitityLogo" src="img/logo_mynewt.png"/></td>
+      <td><a href="https://github.com/apache/mynewt-nimble" target="_blank">Apache myNewt nimBLE</a></td>
       <td>2025</td>
-      <td>Bugfixes in FreeRTOS port & compatibility with clang</td>
+      <td>Bugfixes in FreeRTOS port <br>& compatibility with clang compiler</td>
     </tr>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">dataclass-wizard</a></td>
+      <td><img class="customEntitityLogo" src="img/logo_python.png"/></td>
+      <td><a href="https://github.com/rnag/dataclass-wizard" target="_blank">dataclass-wizard</a></td>
       <td>2024</td>
-      <td>Bugfix for timezone parsing in Python 3.9+</td>
+      <td>Bugfix for timezone parsing <br>in Python 3.9+</td>
     </tr>
   </tbody>
 </table>
@@ -143,42 +143,30 @@ layoutBackgroundHeaderSpace: false
 <table>
   <thead>
     <tr>
-      <th>Institution / Platform</th>
       <th>Course / Certification</th>
       <th>Date</th>
-      <th>Details / Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Udemy</a></td>
-      <td>2023</td>
       <td>Applied ISO14971 Medical Device Risk Management</td>
+      <td>2022</td>
     </tr>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Udemy</a></td>
-      <td>2023</td>
       <td>Git Mindset: Underlying Architecture of Git</td>
+      <td>2022</td>
     </tr>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Udemy</a></td>
-      <td>2023</td>
       <td>FreeRTOS and STM32Fx</td>
+      <td>2025</td>
     </tr>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Udemy</a></td>
-      <td>2023</td>
       <td>Object Oriented Programming with Python3</td>
+      <td>2023</td>
     </tr>
     <tr>
-      <td><img class="customEntitityLogo" src="hbs.svg"/></td>
-      <td><a href="https://online.hbs.edu/" target="_blank">Udemy</a></td>
-      <td>2023</td>
       <td>Principles of Secure Coding</td>
+      <td>2024</td>
     </tr>
   </tbody>
 </table>
