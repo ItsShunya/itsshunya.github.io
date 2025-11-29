@@ -1,4 +1,4 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Posts"
+description: "Here you will find the full list of blogposts in this website."
 ---
