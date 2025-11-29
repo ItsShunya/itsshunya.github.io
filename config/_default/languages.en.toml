@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "NULL"
+title = "Shunya"
 
 [params]
   displayName = "English"
@@ -9,7 +9,7 @@ title = "NULL"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.webp"
-  description = "NULL :: Shunya's blog"
+  description = "Shunya's blog"
 
 [params.author]
   name = "Victor Luque"

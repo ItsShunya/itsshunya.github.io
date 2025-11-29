@@ -1,7 +1,7 @@
 languageCode = "esp"
 languageName = "Español"
 weight = 1
-title = "NULL"
+title = "Shunya"
 
 [params]
   displayName = "Español"
@@ -9,14 +9,14 @@ title = "NULL"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.webp"
-  description = "NULL :: Shunya's blog"
+  description = "Shunya's blog"
 
 [params.author]
-  name = "NULL: El blog de Shunya"
+  name = "Victor Luque"
   email = "luque.viictor@gmail.com"
   image = "img/myself.jpg"
-  headline = "Aquí encontrarás mis ideas, aprendizajes y críticas!"
-  bio = "NULL blog"
+  headline = "Embedded Software Engineer @ INBRAIN"
+  bio = "Embedded Software Engineer @ INBRAIN"
   links = [
     { x-twitter = "https://x.com/itsshunya" },
     { github = "https://github.com/itsshunya" },
