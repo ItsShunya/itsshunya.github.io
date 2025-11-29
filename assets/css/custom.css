@@ -1,6 +1,6 @@
 @media screen and (min-width: 0px) {
     .customEntitityLogo {
-        background-color: aliceblue;
+        background-color: rgb(255, 255, 255);
         position: relative;
         min-width: 60px;
         width: 60px;
@@ -18,7 +18,7 @@
 
 @media screen and (min-width: 700px) {
     .customEntitityLogo {
-        background-color: aliceblue;
+        background-color: rgb(255, 255, 255);
         position: relative;
         min-width: 80px;
         width: 80px;
@@ -35,7 +35,7 @@
 
 @media screen and (min-width: 1250px) {
     .customEntitityLogo {
-        background-color: aliceblue;
+        background-color: rgb(255, 255, 255);
         position: relative;
         min-width: 100px;
         width: 100px;
