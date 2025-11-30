@@ -28,7 +28,7 @@ I don’t have a strict plan, but the idea is to publish regularly. Some posts w
 - NixOS, home-lab ideas, and self-hosting  
 - Random small things I learn and don’t want to forget  
 
-Basically: whatever I’d tell a friend or coworker because “hey, this might be useful.”
+Basically: whatever I’d tell a friend or coworker because *“hey, this might be useful.”*
 
 ## Why bother with a personal blog?
 

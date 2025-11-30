@@ -20,24 +20,24 @@
   pageRef = "posts"
   weight = 15
 
-[[main]]
-  name = "Servicios"
-  pageRef = "services"
-  weight = 20
-
-[[main]]
-  name = "Info"
-  weight = 30
+#[[main]]
+#  name = "Servicios"
+#  pageRef = "services"
+#  weight = 20
 
 [[main]]
   name = "Sobre mi"
-  parent = "Info"
+  weight = 30
+
+[[main]]
+  name = "Yo"
+  parent = "Sobre mi"
   pageRef = "about/myself"
   weight = 37
 
 [[main]]
   name = "Curriculum"
-  parent = "Info"
+  parent = "Sobre mi"
   pageRef = "about/resume"
   weight = 38
 
