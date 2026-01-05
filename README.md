@@ -1,4 +1,5 @@
-# itsshunya.github.io
+# shunya.is-a.dev
+
 My personal website!
 
 # Development Environment
@@ -10,7 +11,7 @@ $ sudo apt install hugo
 
 Clone the repository with its submodules.
 ```
-git clone git@github.com:ItsShunya/itsshunya.github.io.git --recursive blog
+git clone git@github.com:ItsShunya/shunya.is-a.dev.git --recursive blog
 ```
 
 # Run it locally
