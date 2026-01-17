@@ -3,18 +3,18 @@ title: "Resume"
 date: 2025-11-25T20:55:31+01:00
 draft: false
 
-showDate : false
-showDateOnlyInArticle : false
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTableOfContents : false
-showRelatedContent : false
-showTaxonomies : false
-showWordCount : false
-showSummary : false
-sharingLinks : false
+showDate: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showTableOfContents: true
+showRelatedContent: false
+showTaxonomies: false
+showWordCount: false
+showSummary: false
+sharingLinks: false
 showEdit: false
 showViews: false
 showLikes: false
