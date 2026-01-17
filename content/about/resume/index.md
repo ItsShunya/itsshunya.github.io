@@ -9,7 +9,7 @@ showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
-showTableOfContents : true
+showTableOfContents : false
 showRelatedContent : false
 showTaxonomies : false
 showWordCount : false
@@ -18,6 +18,7 @@ sharingLinks : false
 showEdit: false
 showViews: false
 showLikes: false
+showZenMode: false
 layoutBackgroundHeaderSpace: false
 ---
 
@@ -98,10 +99,8 @@ layoutBackgroundHeaderSpace: false
             <td>2022 – 2024</td>
         </tr>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="img/logo_upc.png"/></td>
-            <td rowspan=2><a href="https://www.upc.edu/" target="_blank">Polytechnic University of Catalonia</a></td>
-        </tr>
-        <tr>
+            <td><img class="customEntitityLogo" src="img/logo_upc.png"/></td>
+            <td><a href="https://www.upc.edu/" target="_blank">Polytechnic University of Catalonia</a></td>
             <td>BEng in Telecommunication Technologies & Services Engineering</td>
             <td>2016 – 2020</td>
         </tr>
@@ -116,22 +115,23 @@ layoutBackgroundHeaderSpace: false
   <thead>
     <tr>
       <th>OSS Project</th>
+      <th>Link</th>
+      <th>Details</th>
       <th>Date</th>
-      <th>Details / Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img class="customEntitityLogo" src="img/logo_mynewt.png"/></td>
       <td><a href="https://github.com/apache/mynewt-nimble" target="_blank">Apache myNewt nimBLE</a></td>
-      <td>2025</td>
       <td>Bugfixes in FreeRTOS port <br>& compatibility with clang compiler</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td><img class="customEntitityLogo" src="img/logo_python.png"/></td>
       <td><a href="https://github.com/rnag/dataclass-wizard" target="_blank">dataclass-wizard</a></td>
-      <td>2024</td>
       <td>Bugfix for timezone parsing <br>in Python 3.9+</td>
+      <td>2024</td>
     </tr>
   </tbody>
 </table>
