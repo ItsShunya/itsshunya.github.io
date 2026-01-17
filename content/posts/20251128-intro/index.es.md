@@ -12,13 +12,13 @@ Antes de nada, déjame presentarme rápidamente…
 
 Soy **Victor**, aunque en internet también me conocen como **Shunya**. Vivo en España y trabajo como ingeniero de software en la industria de los dispositivos médicos, sobre todo escribiendo *firmware* para sistemas embebidos, aunque también tengo bastante experiencia con aplicaciones de escritorio. Mi día a día combina C/C++, ARM Cortex-M, Qt, Python y cualquier otra cosa que haga falta para que un dispositivo médico funcione de forma fiable. Es un trabajo exigente, a veces estresante, pero siempre gratificante.
 
-# ¡Hola Mundo!
+## ¡Hola Mundo!
 
 Después de muchas tardes trasteando con Hugo, probando distintos layouts, rompiendo cosas, arreglándolas de nuevo y peleándome con la configuración, la web está por fin online. Llevaba tiempo queriendo un espacio personal: un sitio donde escribir, documentar lo que aprendo y tener algo que sea realmente mío, en lugar de notas sueltas repartidas por carpetas.
 
 Esta primera entrada es simplemente yo diciendo: *voilà*. Web hecha. Ahora toca empezar a usarla.
 
-# Qué quiero compartir aquí
+## Qué quiero compartir aquí
 
 No tengo un plan estricto, pero la idea es publicar con cierta regularidad. Algunos posts serán cortos, otros más largos y detallados. Probablemente un poco de todo. Los temas saldrán de lo que esté haciendo o explorando:
 
